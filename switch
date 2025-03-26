@@ -5,4 +5,6 @@ case 1:
 printf("BTech CSE");
 case 2:
 printf("Btech aiml");
+case 3:
+printf("Btech ECE");
 
