@@ -3,4 +3,6 @@ int main(){
 switch
 case 1:
 printf("BTech CSE");
+case 2:
+printf("Btech aiml");
 
