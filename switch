@@ -3,19 +3,13 @@ int main(){
 switch
 case 1:
 printf("BTech CSE");
-printf("BTech CSE");
-printf("BTech CSE");
-printf("BTech CSE");
 
 case 2:
-printf("Btech aiml");
-printf("Btech aiml");
-printf("Btech aiml");
-printf("Btech aiml");
 printf("Btech aiml");
 
 case 3:
 printf("Btech ECE");
+
 case 4:
 printf("BTECH MEC");
 
