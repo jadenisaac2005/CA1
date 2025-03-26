@@ -9,6 +9,10 @@ printf("Btech aiml");
 
 case 3:
 printf("Btech ECE");
+printf("Btech ECE");
+printf("Btech ECE");
+printf("Btech ECE");
+printf("Btech ECE");
 
 case 4:
 printf("BTECH MEC");
