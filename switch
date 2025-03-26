@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main(){
+switch
+case 1:
+printf("BTech CSE");
+
