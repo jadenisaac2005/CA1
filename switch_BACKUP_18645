@@ -3,6 +3,9 @@ int main(){
 switch
 case 1:
 printf("BTech CSE");
+<<<<<<< HEAD
+
+=======
 printf("BTech CSE");
 printf("BTech CSE");
 printf("BTech CSE");
