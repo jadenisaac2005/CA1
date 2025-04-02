@@ -4,16 +4,21 @@ switch
 case 1:
 printf("BTech CSE");
 <<<<<<< HEAD
-
-=======
 printf("BTech CSE");
 printf("BTech CSE");
 printf("BTech CSE");
 printf("BTech CSE");
->>>>>>> branch1
 case 2:
 printf("Btech aiml");
 
+=======
+case 2:
+printf("Btech aiml");
+printf("Btech aiml");
+printf("Btech aiml");
+printf("Btech aiml");
+printf("Btech aiml");
+>>>>>>> branch2
 case 3:
 printf("Btech ECE");
 
